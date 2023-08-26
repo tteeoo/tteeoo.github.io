@@ -1,5 +1,123 @@
 # Poems
 
+2023-08-26
+
+### JFC
+
+```
+Jesus Fucking Christ I left
+And it's been millenia since Jesus Fucking Christ's death
+And maybe just then
+I died too
+
+Jesus Fucking Christ I killed him
+The would-be-me of Otherfuture
+I killed him
+Now he's dead
+
+And in this land of many crosséd buildings I see him
+I feel him, in the heat, and taste him in the the sugar and sodium
+And hear him in the cicadas yelling, pelting the air
+With a tormentous, euphoric "Jesus Fucking Christ"
+```
+
+### Wild, fun, and old
+
+```
+Visions of things
+Of things like my younger mother, and her sister
+Of things like dark places, fences, “the scene”
+	Visions of her in the denim jacket she now gave me
+And of the roads before the highway
+And the shops on the street before the now shops on the street
+		Visions like vast expanses of trees
+Like 	visions of trees only cut up by the river, and the used-to-be family house
+Like			visions of her in the bed of the truck before the truck before the current one
+—wild, fun, and old
+			Visions like that
+```
+
+### Sunk
+
+```
+Deep in the swamp of love
+Curled up as a snake at the bottom of a pit
+Is where you will find the end
+```
+
+### Learned Circles
+
+```
+All these old funk albums adorn the stylized wall of your uncle’s home
+Where did they come from?
+You ask him, and he elaborates on the record store that used to be on Main Street
+He elaborates on postulates of truth, and the human condition
+Ultimately these vinyl disks make you learn more than school
+```
+
+### Light
+
+```
+Becoming in and out
+Of focus and slumber
+Of dead and alive
+Of birth and decay
+
+Fecund units of truth hear me
+For you all are listened
+In ears and out mouths
+The word is light
+```
+
+### Stoop People
+
+```
+Did you know the guy who’s always outside the coffee shop?
+Did you know the guy who sees ghosts?
+Who has a rosary because the Diocese put him up when the state barely would.
+He says he led to the wreck of the tallest building in the city, through the pursuit of a dirigible mooring mast.
+And he writes about it every day.
+Outside the coffee shop.
+
+Did you know if what he says is true?
+Did you know if he really did all these things?
+Like how with thirteen words to a friend he changed photography forever, but never got any credit.
+How by asking a teller about the history of airships he caused an elevator crash-cover-up, and almost got whacked.
+He had over a hundred strokes.
+If what he says is true.
+
+I know something like an elevator crashed through his life around the year nineteen ninety-nine.
+At least he has the coffee shop.
+```
+
+### Substrates
+
+```
+Six eggs sit in small cavities carved in tomato sauce
+A dad carries CDs overflowing from a cardboard box
+Heat transferred through fruit in a dish
+Music enabled by old optics
+Substrates permeate all that is done
+Whether involving culinary or auditory fun
+```
+
+### Tuesdays
+
+```
+An old man sits with a boy
+His student
+And tells him about jazz, art school, and the only years worth reliving
+
+How he used to sell two-dozen paintings every year
+How he hated the austerity of Dallas and the Wild West
+And about the remarriage, old jobs, and old kids
+
+Advice, that is to say
+On instruments and intuition
+```
+
+---
+
 2023-04-07
 
 ### Ritual Pittsburgh
