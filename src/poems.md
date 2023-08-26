@@ -2,6 +2,12 @@
 
 2023-08-26
 
+### Just A Thought
+
+```
+My attraction to the fact that her dad is a linguist was incredibly alarming, because I was caused to think through the reasons that I was not to become a linguist, and upon coming to no valid excuses, I was forced to reconsider the indelible facts of life.
+```
+
 ### JFC
 
 ```
@@ -21,7 +27,7 @@ And hear him in the cicadas yelling, pelting the air
 With a tormentous, euphoric "Jesus Fucking Christ"
 ```
 
-### Wild, fun, and old
+### Wild, Fun, and Old
 
 ```
 Visions of things
@@ -43,6 +49,15 @@ Like			visions of her in the bed of the truck before the truck before the curren
 Deep in the swamp of love
 Curled up as a snake at the bottom of a pit
 Is where you will find the end
+```
+
+### Satire
+
+```
+Rare curiousities, show yourselves!
+You hide in the simple logics of minutia
+I call on you to escape these crannies
+And aid the modernist warriors of our time!
 ```
 
 ### Learned Circles
@@ -328,7 +343,7 @@ Tumultuation sans transpire
 We happened upon the museum anticipating some,
     but not all,
     of its qualities.
-The foreshadowing  was there,
+The foreshadowing was there,
     but not persuading,
     in the threshold.
 Piece after piece,
