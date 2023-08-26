@@ -37,7 +37,7 @@ jobs:
       - name: Manage packages
         run: sudo apt update && sudo apt install -y markdown lowdown
       - name: Make site
-        run: make
+        run: make build
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
