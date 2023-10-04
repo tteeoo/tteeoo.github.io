@@ -1,5 +1,67 @@
 # poems
 
+2023-10-04
+
+### Bug Government
+
+```
+Scarab apparatchik, obeyer of beetles
+Gives orders to the bugs below
+And accepts from the insects atop
+A beautiful structure proceeds
+A republic of fecal proclivities
+```
+
+### My Stranger Friend
+
+```
+My friend and I were at the tea shop, talking it up
+And we could tell this person was overhearing our conversation
+We kept going until interruption
+I forget how it even happened then
+If it was her or us that said something first
+
+You know that funny feeling, like you already know this person you've just met? 
+Well I guess she had it too because she invited us to her apartment
+We were drinking mezcal and talking to this woman for a while before she realized how young we were
+
+That apartment on Fox Point was at once the mysterious home of a stranger, and the most comfortable place I’ve been
+I wish I didn’t let it slip so we could’ve just kept sipping and chatting
+But that would’ve been lying to a friend I guess
+God sometimes I wish time would pass faster
+```
+
+### pedal sedition
+
+```
+happens when
+some internal, necessary mechanism
+happens to fail the machine
+    
+is it pressure or vengeance
+you wonder
+```
+
+### Old Texas Future
+
+```
+Each recently decoupled souls
+We reconfigure on a bed belonging to no one
+Here now, we are young hungry people
+```
+
+### Bug Government III
+
+```
+Tree structures, fertile nodes
+Open to insect probes they seem
+Rerouting everything, carried bug streams
+Ants following ants following trails
+Trails laid out, attractively made
+Do they know where they're going?
+The path bureaucrat's showing
+```
+
 2023-08-26
 
 ### Just A Thought
