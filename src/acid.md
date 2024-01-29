@@ -32,6 +32,8 @@ due to human-induced climate change]).
 
 The beats->(CIA)->hippies
 
+Now, social media (or better encapsulated, individual media?)
+
 ### On the existence of other similar substances
 
 ### On my circumstances
