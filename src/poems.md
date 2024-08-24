@@ -97,7 +97,7 @@ Is freedom fretless?
 Is honor in immolation?
   , intonation?
 
-After the event, all art must be question without appreciation
+After the event, all art must be questioned without appreciation
 
 What is the event?
 Was there an event?
