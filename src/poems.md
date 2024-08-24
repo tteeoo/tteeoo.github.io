@@ -167,7 +167,7 @@ A homunculus with horrible hubris
 ```
 Garage truth comes out
 
-Inentity confusion
+Identity confusion
 Identity illusion
 I don't see confusion
 I don't see illusion
