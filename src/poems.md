@@ -1,5 +1,189 @@
 # poems
 
+2024-08-23
+
+### Beach Attendant
+
+```
+She was a head in the seventies
+Now she checks in cars at the town beach
+Has a bear sprawled out on her leg
+Tattooed
+Dancing
+```
+
+### Kiss
+
+```
+What is there to do now?
+Look at pictures of her,
+And think about how you kissed her?
+Think about the park, and the city,
+Far away
+Will you ever see her again,
+Kiss her again?
+Will you think about the scars all along her arm
+And how they made you love her
+And hug her
+And wish she knew peace
+You wonder why we do these things
+Kiss strangers
+Cut arms
+And fall in love
+...
+Will you translate her poems and read them?
+Listen to the music she showed you?
+It all fades into distant memories
+Maybe a souvenir of a bruise on the neck for a few weeks
+And then, gone
+```
+
+### From Molly
+
+```
+A day in 2 acts
+
+The first part of the day was spent at an old spa town in the countryside
+Where the hot mineral water
+All emanates from a single source underground
+Fountains drunk and bathed in for vitality
+
+Act 2
+Back to the city
+Underground again
+Another emanation
+This time darker
+This time a vibration of air instead of liquid
+Guided by a bobbing liaison
+Ensuring this message is delivered correctly
+And it is, so we all move, perpetually
+
+It's the same thing
+We gather at a fountain
+```
+
+### Ostrava Ballerina
+
+```
+The whole time, underneath the shopping cart, flashing lights, though the fog, I see her
+She moves in rebellion of ten years training to be something she resents
+Far away from home she joins me and others on the dance floor
+The Balearic beat harbors no first, second, fifth position
+Only liberation
+```
+
+---
+
+## Part I
+
+### Textures
+
+```
+The shower drain is clogged again
+I don't have much to say
+The pressure noise has caused to rain
+There's just a lot today
+
+Regression is a texture
+A box is a texture
+
+Shrinking box catapults down multitudes
+Like gulped elevator shaft,
+Grey closure
+```
+
+### The Event
+
+```
+Is freedom fretless?
+  , fixed against derailments?
+
+Is honor in immolation?
+  , intonation?
+
+After the event, all art must be question without appreciation
+
+What is the event?
+Was there an event?
+```
+
+### slow burn
+
+```
+slow burn
+slow burn into boulder
+slow burn into boulder teaches...
+
+but did there need to
+but did there need to be......
+
+a slow burn into boulder to teach
+```
+
+## Bald Guy
+
+```
+Bald guy drives Jeep Rubicon
+Yet talks about passion
+And I thought: I'm a guy with hair, with not a Jeep Rubicon
+Why should I care
+What should I care
+```
+
+### Calamities
+
+```
+Some events ripple through a week like
+Petulance, waste, malice
+An ocurrence of evil
+Impact so hard it's psychoactive
+Horribly derailed those neat trajectories of each day by
+Negligence, haste, malpractice
+```
+
+### Bumps
+
+```
+Surfaces of tabletops forced into discrete bumps
+Like gumdrops
+Protruding into the journey of time
+Manifest from substrate of being
+Must been have determined current form by consequence
+Newtonian laws of randomness and chaos make nipples
+```
+
+### Today's Events
+
+```
+A delegation of dilettantes display
+Ordered arrogance today
+At the gallery showing
+
+A reputation of runts reproduced
+Smaller progeny produced
+By their fathers' creation
+
+A homunculus with horrible hubris
+```
+
+### Garage Truth
+
+```
+Garage truth comes out
+
+Inentity confusion
+Identity illusion
+I don't see confusion
+I don't see illusion
+I just see choosing
+I just see using
+
+Mission statement: quest searching
+Fucking as lifestyle/brand
+```
+
+---
+
 2023-10-04
 
 ### Bug Government
@@ -61,6 +245,8 @@ Trails laid out, attractively made
 Do they know where they're going?
 The path bureaucrat's showing
 ```
+
+---
 
 2023-08-26
 
