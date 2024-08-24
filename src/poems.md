@@ -72,10 +72,6 @@ The Balearic beat harbors no first, second, fifth position
 Only liberation
 ```
 
----
-
-## Part I
-
 ### Textures
 
 ```
@@ -120,7 +116,7 @@ but did there need to be......
 a slow burn into boulder to teach
 ```
 
-## Bald Guy
+### Bald Guy
 
 ```
 Bald guy drives Jeep Rubicon
