@@ -25,7 +25,7 @@ Kiss her again?
 Will you think about the scars all along her arm
 And how they made you love her
 And hug her
-And wish she knew peace
+And wish she knew peace.
 You wonder why we do these things
 Kiss strangers
 Cut arms
