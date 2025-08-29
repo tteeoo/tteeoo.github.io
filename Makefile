@@ -5,7 +5,6 @@ url = https://theohenson.com
 
 build: dst
 	./ssg6 src dst "${title}" "${url}"
-	./blog_feeds.py
 dst:
 	mkdir dst
 clean:
