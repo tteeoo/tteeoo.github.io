@@ -1,10 +1,8 @@
 title = Theo Henson
 url = https://theohenson.com
 
-.PHONY: build clean poem
+.PHONY: build clean
 
-poem: build
-	./new_poem.py
 build: dst
 	./ssg6 src dst "${title}" "${url}"
 	./blog_feeds.py
