@@ -6,6 +6,242 @@
 
 ## poems
 
+2025-09-05
+
+### Palantir
+
+```
+Palantir sees you cry
+Palantir finds you a sad person
+Palantir sends you a candy bar in the mail
+You realize the West is the greates civilization
+```
+
+### Berlin
+
+```
+Palette seats
+Composite wood walls
+Paint, of course
+Around most of the corners we find some kind of bulb, or box
+For the maintenance of the city or the regular doings of people
+But this object is just littered
+In grit
+```
+
+### Industrial
+
+```
+What is Industrial
+Industrial is something interrupting ways of being
+Industrial is natural but not biological
+Industrial is captured by disliked forces
+But it can also be captured by the people
+```
+
+### Return to form
+
+```
+Spacecraft architechture
+Internally comports
+Spacecraft architect
+Impressively sorts
+Out confounding
+Rooms upon
+Rooms upon
+Rooms
+```
+
+### Search terms
+
+```
+How to be interdisciplinary
+How to "make it" as an artist
+How to drop out and remain relevant
+How to relinquish desires for relevance
+How to be read by others
+Should every great artist practice sculpture
+Do you practice sculpture
+
+How to stomach long form media in the post-information age
+How to build basic domestic structures
+Can you live in self-made structures without worrying about both the IRS and relevance?
+```
+
+### Tumbling
+
+```
+Tumbling things down is a critical act
+But when things are tumbled
+Critique is in cohesion
+```
+
+### Easels
+
+```
+Solidify: six easels draft
+Permanence: bronze figures cast
+Undone: munitions needs shaft
+Statues: they are now bullets 
+Easels: now draft other formations
+```
+
+### From Pearl Street to the Water and back
+
+```
+Shafted and piled down on, though and without the cause, but the cause remains a question:
+    how did I become sad, and, how did I forget how.
+The cause, the cause...
+Without the cause---a stupid way to be
+But sometimes things just are, and you think I mean to say we can't change them, but of course we can;
+We are all powerful but just powerful enough not to see the bus we got on at Pearl Street and rode down to the water.
+And you ask how we got here---did I walk here? And I'm not sure, and say so. But yes! We can leave.
+And so we walk on down the path populated by stiff and old souls, stuck together and looked-down, blameless, like us if we thought we had to stay.
+We walk around the whole town with our guitars, happy enough.
+```
+
+### Balthazar
+
+```
+The Balthazar waitstaff's situating the table further from the booth for you seating convenience
+My inclusion of the name's perpetuating of the myth and the status
+```
+
+### Modern comedy
+
+```
+How do you enjoy computational modules?
+In many ways; by creating them (1)
+I'm not sure how you do that (2)
+You do it by configuring them.
+That's not one of the ways I enjoy them, why prescribe (1)
+Interesting, that computes (2)
+I have a question for you, first entity:
+    what modules have you created?
+    This process should not be enjoyable.
+Why do you call me "first entity"? Anyways, I have created two modules, 1 and 2, and yes I enjoyed creating them (1)
+Who is the "first entity"? (2)
+If you had yourself configured them, you would understand.
+I can't see how understanding lies in configuration (1)
+Understand what? (2)
+```
+
+### To be outside
+
+```
+What does it mean to be outside
+Well most the time it's better
+Revel in uncontainment, in trees
+And it's even nice to be out in the rain
+But in the end it's better not to be an outsider in the rain
+```
+
+### The star
+
+```
+I'd like to be the star of a lifestyle magazine
+I'd like you to see me as fine
+But harmful to society
+But that harmful in an outlet no longer with wide reach, ineffective
+And yet I'm attractive
+```
+
+### Writing like
+
+```
+Writing like what?
+Writing like it's what's to do?
+Writing like you like to write?
+Writing like you have to
+
+Why do you have to write, or rather
+Writing like you have to, why are you?
+Why are you writing like that?
+Writing like that because you like to
+
+But really having to write's not like writing like you have to, or rather
+Writing like you have to's not like having to write
+Since you don't have to like to write, but
+Writing like that's writing how you like
+```
+
+### The latest art
+
+```
+Everything is falling out
+Is there anywhere safe now?
+
+What is the latest art?
+Is it in pieces?
+
+Are there pieces in buildings that can be called the latest art?
+```
+
+### 'A deep hole' and corresponding diagram
+
+```
+A deep hole is an emotional expression
+---Desolation---
+You could focus on the symbology of the void:
+    something missing
+Or plain emptiness without previous or aspiring existence
+The labor in creating the hole (if it is to have been created) could also be focused on:
+    Monotony, dread, exertion in digging;
+The laborer may use the hole as an outlet for anger, or coherence in depression
+```
+
+![Corresponding Diagram](deep-hole.jpg)
+
+### Assembly's Appeal
+
+```
+Why is assembly appealing
+Why is appeal assembling
+I want appeal to assemble
+Do I want assembly to appeal?
+Not necessarily; assembly's appeal merely emerges
+Thus, appeal assembles through the emergence of assembly's appeal
+```
+
+### PSA from MLG
+
+```
+Public Service Announcement from the Modernist Landed Gentry, owners of Homeowners Associations and the like:
+Dance music is corrupting our youth, luring them to radical night time events where they do nothing but experience, regret their jobs, and spend money on fuel.
+If we just get them awake more during the day, maybe, they'll do more listening, appreciating, and buying of property.
+```
+
+### Forever cigarette
+
+```
+Forever cigarette
+You are a cigarette I smoke forever
+Forever pleasure
+An endeavor of pleasure forever
+```
+
+### 'Some plans' and 'Some problem'
+
+```
+Some plans
+Indicate construction
+Others construe
+         destruction
+Step by step
+Everything will be
+         recreated
+         eliminated
+```
+
+```
+Some problem
+More tools
+Not enough sprocket locks
+Hope it's not stolen
+```
+
+---
+
 2024-08-23
 
 ### Beach Attendant
