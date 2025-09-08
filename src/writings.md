@@ -2,7 +2,7 @@
 
 ## longer
 
-* *[Capsicum](capsicum.html)*
+* ["Capsicum"](capsicum.html) (2025-08-29)
 
 ## poems
 
