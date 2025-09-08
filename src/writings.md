@@ -34,7 +34,7 @@ In grit
 ```
 What is Industrial
 Industrial is something interrupting ways of being
-Industrial is natural but not biological
+Industrial is natural, but not biological
 Industrial is captured by disliked forces
 But it can also be captured by the people
 ```
@@ -44,7 +44,7 @@ But it can also be captured by the people
 ```
 Spacecraft architechture
 Internally comports
-Spacecraft architect
+Spacecraft arkitekt
 Impressively sorts
 Out confounding
 Rooms upon
