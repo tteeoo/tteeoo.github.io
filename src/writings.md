@@ -89,7 +89,7 @@ Easels: now draft other formations
 ### From Pearl Street to the Water and back
 
 ```
-Shafted and piled down on, though and without the cause, but the cause remains a question:
+Shafted and piled down on, through and without the cause, but the cause remains a question:
     how did I become sad, and, how did I forget how.
 The cause, the cause...
 Without the cause---a stupid way to be
