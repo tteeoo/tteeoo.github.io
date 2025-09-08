@@ -14,7 +14,7 @@
 Palantir sees you cry
 Palantir finds you a sad person
 Palantir sends you a candy bar in the mail
-You realize the West is the greates civilization
+You realize the West is the greatest civilization
 ```
 
 ### Berlin
