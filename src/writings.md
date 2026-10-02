@@ -41,7 +41,7 @@ He told me how cars, since jail, are just cells.
 I had to go to bed, back to my cell
 He sulked about my retreat... that we can't hang out
 I said, we have been hanging
-I left him on the street
+I left him on the street.
 The next morning my neighbours were texting about a creep
 Trying to break in: we need signs, and barriers.
 ```
