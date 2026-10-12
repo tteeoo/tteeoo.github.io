@@ -1,8 +1,8 @@
 # Capsicum
 
-2025-08-29
-
 <i>A short story</i>
+
+2025-08-29
 
 Mid-afternoon: it was hundreds, perhaps thousands of kilograms. Aluminum, plastic, and glass. It was headed toward me, fast. Threatening. I feel this premonition every day, that some massive object is accelerating in my direction. And I was just walking to my apartment after some lab work, simply walking down Pearl Street. But it gets me everywhere: on my way to the market, to the water, and back. Often, multiple times a day, it gets me. And it gets me today. But I keep on walking. I tuck my head and walk away from these things. I try to walk away from the fact that someday, the bringer of these projectiles will let them keep going, going through me, ending me. But the sun is shining: it brings a great sensation on my walk: on my face, and on my conscience: the snow is disappearing incrementally, day by day; the great fog over the water begins to part; and the plants—the plants are starting to grow. These kinds of things numb my fears, and I merely hope they persist.  
 &nbsp;&nbsp;&nbsp;&nbsp;Mid-afternoon plus twelve minutes, for what it’s worth: I great the wood panels of my door and I greet the creak of its opening. I great the globules of paint up to the wood trim by the floor that remind me many coatings were needed to reach the wall’s current off-white, and I am grateful tape was used to separate that process from the wood trim below. Pearl Street was harrowing, and throttled the mind to take such observational lengths in the encounter with every object. Up the stairs to my unit I greet more squelchers of fear.  
