@@ -1,5 +1,5 @@
-# Theo Henson
+# T Henson
 
-likes writing, music, and occasionally computers
+Disillusioned technician, hopeful writer, perpetually engaged in music
 
-* Email: theodorehenson "at" protonmail "dot" com
+Email: theodorehenson "at" protonmail "dot" com
