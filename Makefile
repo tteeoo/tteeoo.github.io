@@ -1,4 +1,4 @@
-title = Theo Henson
+title = T HENSON
 url = https://theohenson.com
 
 .PHONY: build clean
