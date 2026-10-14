@@ -1,4 +1,4 @@
-# T Henson
+# T HENSON
 
 Disillusioned technician, hopeful writer, perpetually engaged in music
 
