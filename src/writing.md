@@ -1,11 +1,11 @@
-# writings
+# writing
 
-## longer
+## essays and narratives
 
 * ["The 'I' in AI"](ai.html) (2026-09-30)
 * ["Capsicum"](capsicum.html) (2025-08-29)
 
-## poems
+## poem feed
 
 2026-10-02
 
