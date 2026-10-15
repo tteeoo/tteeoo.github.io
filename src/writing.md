@@ -1,6 +1,6 @@
 # writing
 
-## essays and narratives
+## essays and narrative
 
 * ["The 'I' in AI"](ai.html) (2026-09-30)
 * ["Capsicum"](capsicum.html) (2025-08-29)
