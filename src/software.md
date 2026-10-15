@@ -18,30 +18,30 @@ Public domain.
 ### modules
 
 Sources:
-* adsrgen
-* decode
-* fmsynth
-* noise
-* wave
+- adsrgen
+- decode
+- fmsynth
+- noise
+- wave
 
 Filters
-* coeff
-* compress
-* delay
-* envelope
-* hpf
-* lpf
-* negate
+- coeff
+- compress
+- delay
+- envelope
+- hpf
+- lpf
+- negate
 
 Pass-throughs:
-* encode
-* view
+- encode
+- view
 
 Hosts:
-* newrcomp
-* playback
+- newrcomp
+- playback
 
-### State of the toolchain
+### state of the toolchain
 
 2026
 
