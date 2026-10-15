@@ -18,14 +18,14 @@ Public domain.
 ### modules
 
 Sources:
-- adsrgen
+ adsrgen
 - decode
 - fmsynth
 - noise
 - wave
 
-Filters
-- coeff
+Filters:
+ coeff
 - compress
 - delay
 - envelope
@@ -34,7 +34,7 @@ Filters
 - negate
 
 Pass-throughs:
-- encode
+ encode
 - view
 
 Hosts:
