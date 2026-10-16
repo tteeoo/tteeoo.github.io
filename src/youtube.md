@@ -13,7 +13,7 @@ It uses a UNIX command-line environment.
 * [mpv](https://mpv.io/)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-Note on yt-dlp: I am using Debian stable. Stability is undercut in the YouTube API's breaking changes, requiring breaking changes in some of the requisite software.
+Note on yt-dlp: I am using Debian stable. Stability is undercut by the YouTube API's breaking changes, requiring breaking changes in some of the requisite software.
 While yt-dlp exists in Debian's package repository, and will even auto-install with the mpv package, the provided version is too out-of-date.
 I had to manually install the latest version of yt-dlp. Thankfully there is [a single python executable released on GitHub](https://github.com/yt-dlp/yt-dlp/releases/latest).
 I put `yt-dlp` into `~/.local/bin`. If you do this, make sure `~/.local/bin` is before `/usr/bin` in your `PATH` environment variable.
@@ -32,7 +32,7 @@ Note on filepaths: I am assuing the environment variable `XDG_CONFIG_HOME` is se
 
 ### 1. Proof-of-origin token provision
 
-Assuming the prequisites, we must install [bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider) a yt-dlp plugin for generating proof-of-origin tokens for streaming.
+Assuming the prerequisites, we must install [bgutil-ytdlp-pot-provider](https://github.com/Brainicism/bgutil-ytdlp-pot-provider), a yt-dlp plugin for generating proof-of-origin tokens for streaming.
 
 On Debian, pip can only install python packages in a virtual environment, so I manually install:
 
@@ -50,7 +50,7 @@ The plugin operates with an HTTP server, which we run in a Docker image. Downloa
 
 ### 2. Configuring Newsboat
 
-We add a macro to newsboat open links with mpv, which automatically uses yt-dlp, which in turn will now automatically connect to our Docker-ized HTTP server for PO token generation.
+We create a macro in newsboat to open links with mpv, which automatically uses yt-dlp, which in turn will now automatically connect to our Docker-ized HTTP server for PO token generation.
 
 In `~/.config/newsboat/config`, add the line:
 
@@ -58,7 +58,7 @@ In `~/.config/newsboat/config`, add the line:
 macro m set browser "mpv %u" ; open-in-browser ; set browser "lynx -accept_all_cookies -vikeys %u"
 ```
 
-This assumes we reset the browser to [Lynx](https://lynx.browser.org/) a terminal-based web browser. You can replace string after `set browser` to something like `"firefox %u"` or `"$BROWSER %u"`. If you only use Newsboat for YouTube, this won't matter.
+This line resets the browser to [Lynx](https://lynx.browser.org/) a terminal-based web browser. You can replace the string after `set browser` to something like `"firefox %u"` or `"$BROWSER %u"`. If you are making the config file for the first time, add the line `browser ...` with the browser string you want before the line above (no `set`). None of this matters if you will only use Newsboat for YouTube.
 
 [A complete config file of my own design](https://raw.githubusercontent.com/tteeoo/usr/refs/heads/main/home/.config/newsboat/config), which contains the above line but also sets vi-like controls and color changes can be found on GitHub.
 
