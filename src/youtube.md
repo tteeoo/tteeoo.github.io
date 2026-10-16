@@ -76,7 +76,7 @@ You may create a short script to cleanly start (if necessary) the Docker contain
 
 ```
 #!/usr/bin/bash
-sudo docker ps --filter "ancestor=brainicism/bgutil-ytdlp-pot-provider" --format '{{.ID}}' | grep -q . || docker run -d brainicism/bgutil-ytdlp-pot-provider
+sudo docker ps --filter "ancestor=brainicism/bgutil-ytdlp-pot-provider" --format '{{.ID}}' | grep -q . || sudo docker run -d brainicism/bgutil-ytdlp-pot-provider
 newsboat -x reload
 newsboat
 sudo docker stop $(sudo docker ps -q --filter "ancestor=brainicism/bgutil-ytdlp-pot-provider")
