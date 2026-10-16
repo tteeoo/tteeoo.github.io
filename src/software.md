@@ -1,5 +1,9 @@
 # software
 
+## notes
+
+* ["Browser-free YouTube"](youtube.html) (2026-10-15)
+
 ## soundkit
 
 A musical instrument consisting of
@@ -38,7 +42,7 @@ Pass-throughs:
 - view
 
 Hosts:
-- newrcomp
+ newrcomp
 - playback
 
 ### state of the toolchain
