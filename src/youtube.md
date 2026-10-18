@@ -1,6 +1,6 @@
 # Browser-free YouTube
 
-2026-10-15
+2026-10-15 <i>last updated 2026-10-18</i>
 
 In curtailing the addiction that advertising companies such as Google and Meta push upon us, browser-free YouTube is a gem.
 Its implementing seems fragile and rigorous due to the nature of YouTube's API, so I describe my current working method.
@@ -68,7 +68,7 @@ Add your YouTube subscriptions to `~/.config/newsboat/urls` line-by-line in the 
 https://youtube.com/feeds/videos.xml?channel_id=ChannelID "~Name"
 ```
 
-The channel ID can be found in the URL of the channel's page. It looks something like `UCY2mhw-XNZSxrUynsI5K8Zw`.
+The channel ID can be found in the URL of the channel's page, or pressing "...more" on the channel bio, and navigating to "Share channel" > "Copy channel ID". It looks something like `UCY2mhw-XNZSxrUynsI5K8Zw`.
 
 Now, update newsboat with `newsboat -x reload` and then with no options to open it and see your feeds. Enter one, enter onto a video, and press `,` then `m` to run our macro. mpv should open, streaming the video.
 
@@ -80,4 +80,10 @@ sudo docker ps --filter "ancestor=brainicism/bgutil-ytdlp-pot-provider" --format
 newsboat -x reload
 newsboat
 sudo docker stop $(sudo docker ps -q --filter "ancestor=brainicism/bgutil-ytdlp-pot-provider")
+```
+
+I additionally limit my streaming format for better performance by adding the following line to `~/.config/mpv/mpv.conf`:
+
+```
+ytdl-format=bestvideo*[height<=1080][fps<=30]+bestaudio
 ```
