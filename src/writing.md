@@ -2,6 +2,7 @@
 
 ## essays and narrative
 
+* ["Caravaggio and the Crab"](caravaggio.html) (2026-10-23)
 * ["The 'I' in AI"](ai.html) (2026-09-30)
 * ["Capsicum"](capsicum.html) (2025-08-29)
 
