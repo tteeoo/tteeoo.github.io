@@ -13,7 +13,7 @@ Thrill finds everyone, some way or another. The arbiters of the forces that be p
 ## Prologue
 
 Like an artist without a discipline, like a hill without a precipice:
-I walk the ridge every day in awe of the foggy greatness just outside my small home. Wind whips brownish tall grasses, and sometimes just docily brushes them. Sometimes all of the grass just stands upright, unperturbed. The mornings when I walk which fog covers everything, such that you cannot see below the ridge where settlement lies, or anywhere higher either: an expanse that is limited yet not uncoverable. The walk is a wander and a basking-in. There is little visible to set destination to, nor much novel at any corner, and yet the brownish tall grasses and the fog bring joy. I feel I find myself the same place inside as out.
+I walk the ridge every day in awe of the foggy greatness just outside my small home. Wind whips brownish tall grasses, and sometimes just docily brushes them. Sometimes all of the grass just stands upright, unperturbed. The mornings when I walk fog covers everything, such that you cannot see below the ridge where settlement lies, or anywhere higher either: an expanse that is limited yet not uncoverable. The walk is a wander and a basking-in. There is little visible to set destination to, nor much novel at any corner, and yet the brownish tall grasses and the fog bring joy. I feel I find myself the same place inside as out.
 
 ## 1. The Descent
 
